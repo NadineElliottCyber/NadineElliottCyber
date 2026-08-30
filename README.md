@@ -51,7 +51,7 @@ Focus: Ethical Hacking
 - Threat Detection
 - Incident Response
 - Vulnerability Management
-- CompTIA CySA+ Preparation
+- CompTIA Security+ Preparation
 
 ## 📫 Connect With Me
 
