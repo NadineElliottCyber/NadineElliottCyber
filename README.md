@@ -6,6 +6,8 @@ I'm an early-career cybersecurity professional with a Bachelor's degree in Cyber
 
 I'm currently building my skills in security monitoring, threat detection, vulnerability management, incident response, and ethical hacking. This GitHub portfolio documents my hands-on cybersecurity projects and continued professional development.
 
+[LinkedIn](https://www.linkedin.com/in/nadinee-ai/)
+
 ## 🛡️ Cybersecurity Skills
 
 - Security Monitoring & Log Analysis
