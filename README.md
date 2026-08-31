@@ -10,6 +10,7 @@ I'm currently building my skills in security monitoring, threat detection, vulne
 
 ## 🛡️ Cybersecurity Skills
 
+### Core Knowledge
 - Security Monitoring & Log Analysis
 - Vulnerability Assessment
 - Network Security
@@ -18,9 +19,11 @@ I'm currently building my skills in security monitoring, threat detection, vulne
 - Ethical Hacking Fundamentals
 - Security Governance & Compliance
 - Secure AI Practices
+
+### Practical Skills
 - Triage and investigate simulated SOC security alerts
 - Analyze logs and endpoint activity for suspicious behavior
-- Identify and document indicators of compromise
+- Identify and document indicators of compromise (IOCs)
 - Perform basic network reconnaissance using Nmap
 - Document findings and recommend remediation actions
 
