@@ -18,6 +18,11 @@ I'm currently building my skills in security monitoring, threat detection, vulne
 - Ethical Hacking Fundamentals
 - Security Governance & Compliance
 - Secure AI Practices
+- Triage and investigate simulated SOC security alerts
+- Analyze logs and endpoint activity for suspicious behavior
+- Identify and document indicators of compromise
+- Perform basic network reconnaissance using Nmap
+- Document findings and recommend remediation actions
 
 ## 🧰 Tools & Technologies — Hands-on Exposure
 
@@ -33,9 +38,17 @@ I'm currently building my skills in security monitoring, threat detection, vulne
 
 ## 🔬 Cybersecurity Projects
 
-🚧 **Portfolio currently under development**
+### 🛡️ [SOC Analyst Investigation](https://github.com/NadineElliottCyber/SOC-Investigation)
+Investigated simulated security alerts, analyzed endpoint activity, identified indicators of compromise (IOCs), and documented findings and remediation recommendations.
 
-Hands-on cybersecurity projects and investigation write-ups will be added here as I continue building my technical experience.
+### 🔍 [Security Audit & Risk Assessment](https://github.com/NadineElliottCyber/Botium-Toys-Security-Audit)
+Conducted a security audit to identify control gaps, assess risk, and recommend improvements related to access controls, encryption, separation of duties, and compliance.
+
+### 🐍 [Python Port Scanner](https://github.com/NadineElliottCyber/Python-Port-Scanner)
+Built a Python-based port scanner to identify open ports on a target system while demonstrating basic network reconnaissance, socket programming, and security automation.
+
+### 🌐 [Network Traffic Analysis](https://github.com/NadineElliottCyber/Network-Traffic-Cyber)
+Analyzed network traffic using Wireshark to examine packets, protocols, IP addresses, and suspicious network activity.
 
 ## 🎓 Education
 
