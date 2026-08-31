@@ -47,9 +47,6 @@ Conducted a security audit to identify control gaps, assess risk, and recommend 
 ### 🐍 [Python Port Scanner](https://github.com/NadineElliottCyber/Python-Port-Scanner)
 Built a Python-based port scanner to identify open ports on a target system while demonstrating basic network reconnaissance, socket programming, and security automation.
 
-### 🌐 [Network Traffic Analysis](https://github.com/NadineElliottCyber/Network-Traffic-Cyber)
-Analyzed network traffic using Wireshark to examine packets, protocols, IP addresses, and suspicious network activity.
-
 ## 🎓 Education
 
 **Bachelor's Degree in Cybersecurity**  
