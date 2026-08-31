@@ -38,7 +38,7 @@ I'm currently building my skills in security monitoring, threat detection, vulne
 
 ## 🔬 Cybersecurity Projects
 
-### 🛡️ [SOC Analyst Investigation](https://github.com/NadineElliottCyber/SOC-Investigation)
+### 🛡️ [SOC Analyst Investigation](https://github.com/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation)
 Investigated simulated security alerts, analyzed endpoint activity, identified indicators of compromise (IOCs), and documented findings and remediation recommendations.
 
 ### 🔍 [Security Audit & Risk Assessment](https://github.com/NadineElliottCyber/Botium-Toys-Security-Audit)
