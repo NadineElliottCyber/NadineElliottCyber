@@ -1,8 +1,8 @@
 # Hi, I'm Nadine 👋🏽
 
-## Cybersecurity Graduate | Aspiring SOC Analyst 🔐
+## Cybersecurity Graduate | CompTIA Security+ Certified | Aspiring SOC Analyst 🔐
 
-I'm an early-career cybersecurity professional with a Bachelor's degree in Cybersecurity and hands-on practice through academic labs, cybersecurity training, and an AI-focused internship.
+I’m an early-career cybersecurity professional with a Bachelor’s degree in Cybersecurity and CompTIA Security+ certification, building hands-on experience through academic labs, cybersecurity training, and an AI-focused internship.
 
 I'm currently building my skills in security monitoring, threat detection, vulnerability management, incident response, and ethical hacking. This GitHub portfolio documents my hands-on cybersecurity projects and continued professional development.
 
@@ -50,6 +50,10 @@ Conducted a security audit to identify control gaps, assess risk, and recommend 
 ### 🐍 [Python Port Scanner](https://github.com/NadineElliottCyber/Python-Port-Scanner)
 Built a Python-based port scanner to identify open ports on a target system while demonstrating basic network reconnaissance, socket programming, and security automation.
 
+## 🏆 Certifications
+
+- **CompTIA Security+** — CompTIA | September 2026
+
 ## 🎓 Education
 
 **Bachelor's Degree in Cybersecurity**  
@@ -64,7 +68,6 @@ Focus: Ethical Hacking
 - Threat Detection
 - Incident Response
 - Vulnerability Management
-- CompTIA Security+ Preparation
 
 ## 📫 Connect With Me
 
