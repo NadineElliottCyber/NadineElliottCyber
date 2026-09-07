@@ -53,6 +53,7 @@ Built a Python-based port scanner to identify open ports on a target system whil
 ## 🏆 Certifications
 
 - **CompTIA Security+** — CompTIA | September 2026
+<img src="comptia-security-ce-certification.png" alt="CompTIA Security+ Certification" width="175">
 
 ## 🎓 Education
 
