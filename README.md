@@ -1,10 +1,10 @@
 # Hi, I'm Nadine 👋🏽
 
-## Cybersecurity Graduate | CompTIA Security+ Certified | Aspiring SOC Analyst 🔐
+## Cybersecurity Graduate | CompTIA Security+ Certified | SOC & Offensive Security 🔐
 
 I’m an early-career cybersecurity professional with a Bachelor’s degree in Cybersecurity and CompTIA Security+ certification, building hands-on experience through academic labs, cybersecurity training, and an AI-focused internship.
 
-I'm currently building my skills in security monitoring, threat detection, vulnerability management, incident response, and ethical hacking. This GitHub portfolio documents my hands-on cybersecurity projects and continued professional development.
+I’m currently building hands-on skills across defensive and offensive security, including security monitoring, threat detection, vulnerability assessment, incident response, penetration testing, and ethical hacking. This GitHub portfolio documents my hands-on cybersecurity projects and continued professional development.
 
 <a href="https://linkedin.com/in/nadinee-ai/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -13,6 +13,8 @@ I'm currently building my skills in security monitoring, threat detection, vulne
 ### Core Knowledge
 - Security Monitoring & Log Analysis
 - Vulnerability Assessment
+- Penetration Testing Fundamentals
+- Network Reconnaissance & Enumeration
 - Network Security
 - Incident Response Fundamentals
 - Threat Detection & Analysis
@@ -25,12 +27,16 @@ I'm currently building my skills in security monitoring, threat detection, vulne
 - Analyze logs and endpoint activity for suspicious behavior
 - Identify and document indicators of compromise (IOCs)
 - Perform basic network reconnaissance using Nmap
+- Perform port scanning and service discovery in controlled lab environments
+- Conduct basic vulnerability identification and assessment
+- Apply penetration testing methodology in authorized lab environments
 - Document findings and recommend remediation actions
 
 ## 🧰 Tools & Technologies — Hands-on Exposure
 
 - Wireshark
 - Nmap
+- Splunk
 - Linux / Parrot Security OS
 - Windows
 - Python
