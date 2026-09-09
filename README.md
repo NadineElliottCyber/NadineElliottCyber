@@ -11,26 +11,32 @@ I’m currently building hands-on skills across defensive and offensive security
 ## 🛡️ Cybersecurity Skills
 
 ### Core Knowledge
-- Security Monitoring & Log Analysis
-- Vulnerability Assessment
-- Penetration Testing Fundamentals
-- Network Reconnaissance & Enumeration
-- Network Security
-- Incident Response Fundamentals
-- Threat Detection & Analysis
-- Ethical Hacking Fundamentals
-- Security Governance & Compliance
-- Secure AI Practices
+Defensive / Blue Team 🔵
+- SOC Analyst Investigation
+- CVE Exploitation Detected
+- Wireshark Traffic Analysis
+- Weekly Cyber Threat Analysis
 
-### Practical Skills
+Offensive / Red Team 🔴
+- Nmap Network Reconnaissance
+- Web Application Penetration Test
+- Metasploitable Vulnerability Assessment
+- TryHackMe Penetration Testing Report
+
+⚙️ Technical Foundations
+- Linux Security Lab
+- Python Port Scanner
+
+## 🧠 Practical Skills
+
 - Triage and investigate simulated SOC security alerts
 - Analyze logs and endpoint activity for suspicious behavior
 - Identify and document indicators of compromise (IOCs)
-- Perform basic network reconnaissance using Nmap
-- Perform port scanning and service discovery in controlled lab environments
-- Conduct basic vulnerability identification and assessment
-- Apply penetration testing methodology in authorized lab environments
-- Document findings and recommend remediation actions
+- Analyze network traffic using Wireshark
+- Perform basic network and port scanning
+- Use Linux command-line tools for security-focused tasks
+- Develop basic Python security scripts
+- Document security findings and recommend remediation actions
 
 ## 🧰 Tools & Technologies — Hands-on Exposure
 
@@ -70,11 +76,12 @@ Focus: Ethical Hacking
 
 ## 🎯 Current Focus
 
-- SOC Analysis
+- SOC Analysis & Threat Detection
+- Penetration Testing & Ethical Hacking
+- Network Reconnaissance & Vulnerability Assessment
 - SIEM & Log Analysis
-- Threat Detection
 - Incident Response
-- Vulnerability Management
+- Linux & Security Automation
 
 ## 📫 Connect With Me
 
