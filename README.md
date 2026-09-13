@@ -56,8 +56,8 @@ Offensive / Red Team 🔴
 ### 🛡️ [SOC Analyst Investigation](https://github.com/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation)
 Investigated simulated security alerts, analyzed endpoint activity, identified indicators of compromise (IOCs), and documented findings and remediation recommendations.
 
-### 🔍 [Security Audit & Risk Assessment](https://github.com/NadineElliottCyber/Botium-Toys-Security-Audit)
-Conducted a security audit to identify control gaps, assess risk, and recommend improvements related to access controls, encryption, separation of duties, and compliance.
+### 🛡️ [Wazuh SIEM Home Lab](https://github.com/NadineElliottCyber/Wazuh-SIEM-Home-Lab)
+Deployed and configured a Wazuh SIEM environment to monitor a Windows endpoint, analyze Windows Event Logs, investigate authentication activity, correlate security events, and map findings to MITRE ATT&CK.
 
 ### 🐍 [Python Port Scanner](https://github.com/NadineElliottCyber/Python-Port-Scanner)
 Built a Python-based port scanner to identify open ports on a target system while demonstrating basic network reconnaissance, socket programming, and security automation.
