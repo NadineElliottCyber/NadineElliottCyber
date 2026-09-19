@@ -67,6 +67,8 @@ Built a Python-based port scanner to identify open ports on a target system whil
 - **CompTIA Security+** — CompTIA | September 2026
 <img src="comptia-security-ce-certification.png" alt="CompTIA Security+ Certification" width="175">
 
+- **[Google Cybersecurity Professional Certificate](https://coursera.org/share/baa0cdb373de604ea2ee9408dbf4b40e)** — Google | September 2026
+
 ## 🎓 Education
 
 **Bachelor's Degree in Cybersecurity**  
